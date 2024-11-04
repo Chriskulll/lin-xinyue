@@ -1,0 +1,1347 @@
+Using pre-set license
+Built from '2022.3/china_unity/release' branch; Version is '2022.3.43f1c1 (7a2282349f6f) revision 8004226'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 15613 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\å¤§ä¸‰ä¸Š\unity\2022.3.43f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/three one/game_design_project/My project (1)
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+63341
+Successfully changed project path to: D:/three one/game_design_project/My project (1)
+D:/three one/game_design_project/My project (1)
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [42056]  Target information:
+
+Player connection [42056]  * "[IP] 10.8.4.101 [Port] 0 [Flags] 2 [Guid] 1405081862 [EditorId] 1405081862 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-MOPIGMQA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [42056]  * "[IP] 172.27.48.1 [Port] 0 [Flags] 2 [Guid] 1405081862 [EditorId] 1405081862 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-MOPIGMQA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [42056]  * "[IP] 192.168.159.1 [Port] 0 [Flags] 2 [Guid] 1405081862 [EditorId] 1405081862 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-MOPIGMQA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [42056]  * "[IP] 192.168.150.1 [Port] 0 [Flags] 2 [Guid] 1405081862 [EditorId] 1405081862 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-MOPIGMQA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [42056]  * "[IP] 172.19.0.1 [Port] 0 [Flags] 2 [Guid] 1405081862 [EditorId] 1405081862 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-MOPIGMQA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [42056] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [42056] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Refreshing native plugins compatible for Editor in 42.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.43f1c1 (7a2282349f6f)
+[Subsystems] Discovering subsystems at path D:/å¤§ä¸‰ä¸Š/unity/2022.3.43f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/three one/game_design_project/My project (1)/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x249d)
+    Vendor:   NVIDIA
+    VRAM:     8033 MB
+    Driver:   31.0.15.4680
+Initialize mono
+Mono path[0] = 'D:/å¤§ä¸‰ä¸Š/unity/2022.3.43f1c1/Editor/Data/Managed'
+Mono path[1] = 'D:/å¤§ä¸‰ä¸Š/unity/2022.3.43f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/å¤§ä¸‰ä¸Š/unity/2022.3.43f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56132
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/å¤§ä¸‰ä¸Š/unity/2022.3.43f1c1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/å¤§ä¸‰ä¸Š/unity/2022.3.43f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.012381 seconds.
+- Loaded All Assemblies, in  0.471 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.338 seconds
+Domain Reload Profiling: 804ms
+	BeginReloadAssembly (158ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (45ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (79ms)
+	LoadAllAssembliesAndSetupDomain (174ms)
+		LoadAssemblies (153ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (171ms)
+			TypeCache.Refresh (169ms)
+				TypeCache.ScanAssembly (150ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (338ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (279ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (196ms)
+			ProcessInitializeOnLoadMethodAttributes (63ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.004 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.140 seconds
+Domain Reload Profiling: 2134ms
+	BeginReloadAssembly (184ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (62ms)
+	LoadAllAssembliesAndSetupDomain (703ms)
+		LoadAssemblies (515ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (294ms)
+			TypeCache.Refresh (244ms)
+				TypeCache.ScanAssembly (215ms)
+			ScanForSourceGeneratedMonoScriptInfo (40ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1141ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (966ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (96ms)
+			ProcessInitializeOnLoadAttributes (664ms)
+			ProcessInitializeOnLoadMethodAttributes (180ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 24.25 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4767 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 42 unused Assets / (129.5 KB). Loaded Objects now: 5241.
+Memory consumption went from 161.1 MB to 160.9 MB.
+Total: 11.249300 ms (FindLiveObjects: 0.509500 ms CreateObjectMapping: 0.247500 ms MarkObjects: 10.303600 ms  DeleteObjects: 0.186700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 112180.904120 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Settings
+  artifactKey: Guid(0735c275001a2c84dafdb30deced5d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Settings using Guid(0735c275001a2c84dafdb30deced5d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '9e552d76c90d8c47d5be746575b784df') in 0.003632 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 176.371987 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Ground 2.fbx
+  artifactKey: Guid(c20e6893d9c94b44281777f0b713ac63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Ground 2.fbx using Guid(c20e6893d9c94b44281777f0b713ac63) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6bd23221cfc9b839080ca8ab33747865') in 0.160602 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.057509 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 1 V2.fbx
+  artifactKey: Guid(ee1a8b58f2aeed44aa5e743ff5860291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 1 V2.fbx using Guid(ee1a8b58f2aeed44aa5e743ff5860291) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ad5b2f4fcec63655a259b57570155e87') in 0.045132 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 2 V2.fbx
+  artifactKey: Guid(21edd1e12305b9a4c8d7646ce45c0667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 2 V2.fbx using Guid(21edd1e12305b9a4c8d7646ce45c0667) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '284b549c02058cabdf454a0ac7b5f1fb') in 0.046026 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 13 V1.fbx
+  artifactKey: Guid(6347b471134c84b4d8eb6caff4c81d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 13 V1.fbx using Guid(6347b471134c84b4d8eb6caff4c81d6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'd15726febd2d7eaef514e999ede7515d') in 0.046972 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 6 V1.fbx
+  artifactKey: Guid(41f606df4c6a80f4ba46fc08c25948cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 6 V1.fbx using Guid(41f606df4c6a80f4ba46fc08c25948cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e2c37b24e3150c5917e66ca29a4b8ff6') in 0.054406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 12 V2.fbx
+  artifactKey: Guid(6fcc172556e9bbb488dd18f300556ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 12 V2.fbx using Guid(6fcc172556e9bbb488dd18f300556ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '08ab8641874a2fa5aee884b8eb6ff9c9') in 0.044149 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 1 V4.fbx
+  artifactKey: Guid(d82d87fe71244fb46b332638efecff08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 1 V4.fbx using Guid(d82d87fe71244fb46b332638efecff08) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'dd7da0c1223fd311acd38b5c17376ca7') in 0.038773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 7 V1.fbx
+  artifactKey: Guid(e45890d7480f7ab4f9c47f35a0b2bb77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 7 V1.fbx using Guid(e45890d7480f7ab4f9c47f35a0b2bb77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '92495b4f945202b0db540dcf078f715a') in 0.038505 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 5 V4.fbx
+  artifactKey: Guid(131b56b80e24287449fffb9c749cb02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 5 V4.fbx using Guid(131b56b80e24287449fffb9c749cb02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '2a09508c3a7cad4560dbab60d49e6596') in 0.040143 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 15 V3.fbx
+  artifactKey: Guid(a6ac928be0abf7f46b00c6d2ca275a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 15 V3.fbx using Guid(a6ac928be0abf7f46b00c6d2ca275a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '5beea891399780eb3791628811833175') in 0.024728 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 5 V3.fbx
+  artifactKey: Guid(ed1f06c11b0411f44ba3ecbfcbcea979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 5 V3.fbx using Guid(ed1f06c11b0411f44ba3ecbfcbcea979) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f9e48382e9e6134e90c4ac6898b9f279') in 0.038777 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 5 V2.fbx
+  artifactKey: Guid(8651155854d692d44974570b0e7654a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 5 V2.fbx using Guid(8651155854d692d44974570b0e7654a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ba137bbeea68b31aeb6f57b1d25dfe95') in 0.036464 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 13 V2.fbx
+  artifactKey: Guid(48cdca813c259bc499e1e1e0dacfe752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 13 V2.fbx using Guid(48cdca813c259bc499e1e1e0dacfe752) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '1fd00450aeab6834d564cd18796b030f') in 0.037985 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 14 V1.fbx
+  artifactKey: Guid(3706dce17d9b2fb419eaf55f08ab5431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 14 V1.fbx using Guid(3706dce17d9b2fb419eaf55f08ab5431) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '5228f40059ea7f8b5c42dcbfff4bc955') in 0.039332 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 2 V4.fbx
+  artifactKey: Guid(ff0ddaefe5deb8b4ea94c2c432a2d240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 2 V4.fbx using Guid(ff0ddaefe5deb8b4ea94c2c432a2d240) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '1a8a050b8e68b89a1e5562d627b5dacb') in 0.039372 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 10 V1.fbx
+  artifactKey: Guid(b49d472ea8c8a3e4bb47c8309cb4c266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 10 V1.fbx using Guid(b49d472ea8c8a3e4bb47c8309cb4c266) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f454c0e7bf9a9ac31a17ed39920293dc') in 0.038637 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 7 V2.fbx
+  artifactKey: Guid(9060ea68f264e9942b0e36c2368b1cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 7 V2.fbx using Guid(9060ea68f264e9942b0e36c2368b1cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '600daabe5f3a05b9784af1dcbf2de29c') in 0.040541 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 9 V2.fbx
+  artifactKey: Guid(12ad3ff351e200b43b971adccc25fa09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 9 V2.fbx using Guid(12ad3ff351e200b43b971adccc25fa09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '0678341026eafd8385294d78081b87ed') in 0.037248 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 2 V3.fbx
+  artifactKey: Guid(539b3a6ff40a42242aa11c003103f054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 2 V3.fbx using Guid(539b3a6ff40a42242aa11c003103f054) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '956dfb116bedf4a35361a2c87b9c1820') in 0.039655 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 4 V2.fbx
+  artifactKey: Guid(65426a3a5a54f7f4aa560bf733ef2954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 4 V2.fbx using Guid(65426a3a5a54f7f4aa560bf733ef2954) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '9433cfd34a36cf5a1e91fd30443a19c6') in 0.036179 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 7 V3.fbx
+  artifactKey: Guid(e3f7a48ca8fc6bf448e65d80daa06f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 7 V3.fbx using Guid(e3f7a48ca8fc6bf448e65d80daa06f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '2aca25ee5984afc828eba67521840d1c') in 0.036688 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 9 V4.fbx
+  artifactKey: Guid(3f06c425d1603a744a4ab5487b233b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 9 V4.fbx using Guid(3f06c425d1603a744a4ab5487b233b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '82d26138898a72bcdcc71bf7ac667d7a') in 0.039406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 5 V1.fbx
+  artifactKey: Guid(d59c786709b77b94fbc6a65cfe64395a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 5 V1.fbx using Guid(d59c786709b77b94fbc6a65cfe64395a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e0388f3fcf730221062cc9efbd5b4419') in 0.037970 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 1 V1.fbx
+  artifactKey: Guid(4f538c9a3e3eca2478e25ac48d35e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 1 V1.fbx using Guid(4f538c9a3e3eca2478e25ac48d35e3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '15f205af1c32041689c164b03b5ad0bc') in 0.037711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 12 V3.fbx
+  artifactKey: Guid(deea9b8bcdfd06f4193df8830acb7a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 12 V3.fbx using Guid(deea9b8bcdfd06f4193df8830acb7a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '4e190c48370c79767b9fab7157402351') in 0.039096 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 9 V1.fbx
+  artifactKey: Guid(33b82f1d8bbe4bf499667b2e6df217fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 9 V1.fbx using Guid(33b82f1d8bbe4bf499667b2e6df217fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '87b30fd66411de3a32f93b4d7cffa48e') in 0.038761 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 15 V4.fbx
+  artifactKey: Guid(2180c9faae3f49e449e4dc0e71418eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 15 V4.fbx using Guid(2180c9faae3f49e449e4dc0e71418eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'fa9d3d1ab7a09c0ee3e4afad272ce467') in 0.025948 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 11 V2.fbx
+  artifactKey: Guid(80a71a4de0d13a24facdf9f41751d097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 11 V2.fbx using Guid(80a71a4de0d13a24facdf9f41751d097) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '9f76c4f95f71d30d1c59358e8e505c21') in 0.039227 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 8 V2.fbx
+  artifactKey: Guid(9ea70547c74c53c4a8ed56dba7a77589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 8 V2.fbx using Guid(9ea70547c74c53c4a8ed56dba7a77589) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'cc3a26c5825419b5961bf5b0e1935d15') in 0.041147 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 8 V1.fbx
+  artifactKey: Guid(003e5ef977b5e594dbd574f9b4a1af03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 8 V1.fbx using Guid(003e5ef977b5e594dbd574f9b4a1af03) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '4d841111d028648dbc59dfe65bf34089') in 0.038648 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 8 V3.fbx
+  artifactKey: Guid(f90ce2d09fa262d4987840c4389d981b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 8 V3.fbx using Guid(f90ce2d09fa262d4987840c4389d981b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'b6f95d2b4d741aac302d6b1e94d6cf47') in 0.036671 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.284 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.206 seconds
+Domain Reload Profiling: 3474ms
+	BeginReloadAssembly (301ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (84ms)
+	RebuildCommonClasses (60ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (64ms)
+	LoadAllAssembliesAndSetupDomain (824ms)
+		LoadAssemblies (775ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (199ms)
+			TypeCache.Refresh (153ms)
+				TypeCache.ScanAssembly (128ms)
+			ScanForSourceGeneratedMonoScriptInfo (35ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (2207ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1080ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (112ms)
+			ProcessInitializeOnLoadAttributes (713ms)
+			ProcessInitializeOnLoadMethodAttributes (222ms)
+			AfterProcessingInitializeOnLoad (17ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Main': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Shader 'Water': fallback shader 'Hidden/Shader Graph/FallbackError' not found
+Refreshing native plugins compatible for Editor in 24.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4752 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (1.5 MB). Loaded Objects now: 5268.
+Memory consumption went from 164.6 MB to 163.1 MB.
+Total: 13.885600 ms (FindLiveObjects: 0.720500 ms CreateObjectMapping: 0.391000 ms MarkObjects: 12.073800 ms  DeleteObjects: 0.698600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/Rnd_Animation.cs: 6a087599ae083d01f596a8ee8ecfc6da -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 76b6f856d62b4a63842ab064d2cc9f64 -> e1aa97aab317507264335b72fb3de4c8
+========================================================================
+Received Import Request.
+  Time since last request: 49.366711 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/berries_001.prefab
+  artifactKey: Guid(9a26f5c0f96496e4fb154024e0be0e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/berries_001.prefab using Guid(9a26f5c0f96496e4fb154024e0be0e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ca7d04e030fc1119be052d0a67e03d21') in 0.101517 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/key_002.prefab
+  artifactKey: Guid(876a53f86e7ef294d8780a7d90401f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/key_002.prefab using Guid(876a53f86e7ef294d8780a7d90401f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '33467171c3e8dd6b74d1ed40250879c9') in 0.021944 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/ladder_001.prefab
+  artifactKey: Guid(5817d163283a83348a028d39e54ea4a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/ladder_001.prefab using Guid(5817d163283a83348a028d39e54ea4a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8ce2905a0f32ea8e52abdd3e4da7974e') in 0.024806 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/leaderboard_001.prefab
+  artifactKey: Guid(5602d1ad88e34dd4bb1c60d537366ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/leaderboard_001.prefab using Guid(5602d1ad88e34dd4bb1c60d537366ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'd6da64b08f5c43bf2b0d94b7fcf792d9') in 0.022318 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/land_002.prefab
+  artifactKey: Guid(a2eb0aeb15f4ec6438077e823621225f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/land_002.prefab using Guid(a2eb0aeb15f4ec6438077e823621225f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'bfd8f9051213ea5be4ef3c8e2d5d518d') in 0.021471 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/box_001.prefab
+  artifactKey: Guid(6aa560996c9730c488734adc13c5a8bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/box_001.prefab using Guid(6aa560996c9730c488734adc13c5a8bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'b186780c162e5e4a4150cbe11f3bf5a9') in 0.021251 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/coin_001.prefab
+  artifactKey: Guid(7bc89e6cbc9bd464b913bdf81b74e66b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/coin_001.prefab using Guid(7bc89e6cbc9bd464b913bdf81b74e66b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '536f5785ff6393598459c21f47dcc2ed') in 0.020297 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/indicator_003.prefab
+  artifactKey: Guid(c21018929b128544eaeb96505f565ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/indicator_003.prefab using Guid(c21018929b128544eaeb96505f565ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '078fc240845f6662bb09322f6b4b6d05') in 0.029083 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/box_tnt_001.prefab
+  artifactKey: Guid(16132d414dcfcb64c9382463d0076e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/box_tnt_001.prefab using Guid(16132d414dcfcb64c9382463d0076e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f2f7ac45acf45337e2228aa038b702cc') in 0.019723 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/fence_wood_002.prefab
+  artifactKey: Guid(d6823a9c2e2fcff4889a681934191b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/fence_wood_002.prefab using Guid(d6823a9c2e2fcff4889a681934191b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f0f8b9c85e7dc11a700f13d1227abed8') in 0.028736 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/indicator_004.prefab
+  artifactKey: Guid(4e4a3e39381f58b4db52fb07ce542916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/indicator_004.prefab using Guid(4e4a3e39381f58b4db52fb07ce542916) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'b5bab849a40db0fd4ebb643c35dcbacd') in 0.027336 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/land_008.prefab
+  artifactKey: Guid(023b346950df8934fb119351e2b99b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/land_008.prefab using Guid(023b346950df8934fb119351e2b99b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'def39f932e72ad295b03d8c612107fb6') in 0.019103 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/land_003.prefab
+  artifactKey: Guid(620b338087ab79c4f89682a05b395412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/land_003.prefab using Guid(620b338087ab79c4f89682a05b395412) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '84de00cc74a745df069f99228c3350b6') in 0.021438 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/flower_003.prefab
+  artifactKey: Guid(c68ffeba734aa9c4f8782fca72651520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/flower_003.prefab using Guid(c68ffeba734aa9c4f8782fca72651520) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '756de7317aa2fd0a87b0aa921793a158') in 0.001019 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/land_007.prefab
+  artifactKey: Guid(1f87781acbb7dd4469f3b792e8efbada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/land_007.prefab using Guid(1f87781acbb7dd4469f3b792e8efbada) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '79d22d3c48bd7ecc3414d712e9cfc87a') in 0.019907 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/indicator_002.prefab
+  artifactKey: Guid(5fbdd583e48168a429407816f3a190cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/indicator_002.prefab using Guid(5fbdd583e48168a429407816f3a190cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'b6820570fea0a6e888805a3e5025cf85') in 0.018733 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 27.825861 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/obstacle_8_001.prefab
+  artifactKey: Guid(f014c04aee2bf09438670262e56fdea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/obstacle_8_001.prefab using Guid(f014c04aee2bf09438670262e56fdea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '02074d9b6cbc7cbea4bb7dbaa0b8a508') in 0.001637 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/obstacle_11_002.prefab
+  artifactKey: Guid(64c51950b4ff74d49b8c706c375be90c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/obstacle_11_002.prefab using Guid(64c51950b4ff74d49b8c706c375be90c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '07252bda9b5af5458063990d57a2f9c6') in 0.029954 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/obstacle_13_002.prefab
+  artifactKey: Guid(7081d0ee60d395a4187ebab3d211e67d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/obstacle_13_002.prefab using Guid(7081d0ee60d395a4187ebab3d211e67d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '7a00b578b7ff2a07ee5ef94c02b3cd9c') in 0.022909 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/rock_001.prefab
+  artifactKey: Guid(aa3e0e2eac1b2ff40bf76183d57e0537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/rock_001.prefab using Guid(aa3e0e2eac1b2ff40bf76183d57e0537) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '7f799136ffc76c89b74457bab42d757b') in 0.018912 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/stone_006.prefab
+  artifactKey: Guid(519ed533080e3144ba05964347b11fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/stone_006.prefab using Guid(519ed533080e3144ba05964347b11fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '9aa713996818aaa49a71109b275af0f2') in 0.020659 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/trampoline_002.prefab
+  artifactKey: Guid(3bfa9001781f0a040818a2650cb83c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/trampoline_002.prefab using Guid(3bfa9001781f0a040818a2650cb83c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '40e2cede0411430aed473b56cde23f08') in 0.000878 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/stake_001.prefab
+  artifactKey: Guid(1a51ac03ab62d0c40b7badcfa9d30573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/stake_001.prefab using Guid(1a51ac03ab62d0c40b7badcfa9d30573) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'c96a31edcb93e54493c4af6db29bfe3d') in 0.017027 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/obstacle_10_002.prefab
+  artifactKey: Guid(a218904dd011c41429f083415eee20b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/obstacle_10_002.prefab using Guid(a218904dd011c41429f083415eee20b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ae966d19bf5bfc8cad34ba4051bdc057') in 0.019447 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/pumpkin_002.prefab
+  artifactKey: Guid(ff1ae53835d27f94a9369fcacaad40e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/pumpkin_002.prefab using Guid(ff1ae53835d27f94a9369fcacaad40e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '1ffe2dfe0143b47fc476b3c626c24d5e') in 0.017350 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Platformer 1 - Low Poly/Prefabs/tree_002.prefab
+  artifactKey: Guid(b4b97576c7539f149bcde24d53fa19af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Prefabs/tree_002.prefab using Guid(b4b97576c7539f149bcde24d53fa19af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '7c10fd9fbb6fc3384a7bdb4ee98f7ad6') in 0.018192 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 33.045949 seconds.
+  path: Assets/Platformer 1 - Low Poly/Skybox/Skybox_10.mat
+  artifactKey: Guid(5d794155c27025a47ae640fd102c3613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Skybox/Skybox_10.mat using Guid(5d794155c27025a47ae640fd102c3613) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '85b48f8ab4c55dbe9c23bc8dc0d4640c') in 0.111184 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 24.105686 seconds.
+  path: Assets/Platformer 1 - Low Poly/Meshes/barrier_001.fbx
+  artifactKey: Guid(36db1e0a20952374688155de3425933f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Meshes/barrier_001.fbx using Guid(36db1e0a20952374688155de3425933f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'd7b527b2aa92b1b17726cde2dc61f766') in 0.047201 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Platformer 1 - Low Poly/Meshes/fence_wood_005.fbx
+  artifactKey: Guid(886660f100c89724f9b54d07d372916c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Meshes/fence_wood_005.fbx using Guid(886660f100c89724f9b54d07d372916c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '0d19eb293fe0f706812e1bbf8f5ed519') in 0.025630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Platformer 1 - Low Poly/Meshes/fence_pillar_001.fbx
+  artifactKey: Guid(8259276044035464ebdb1d33445441d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Meshes/fence_pillar_001.fbx using Guid(8259276044035464ebdb1d33445441d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '138449413389058ebb093ab30b0a6f20') in 0.023243 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Platformer 1 - Low Poly/Meshes/dynamite_002.fbx
+  artifactKey: Guid(27d015532ed1a0545a8368627e2e0f83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Meshes/dynamite_002.fbx using Guid(27d015532ed1a0545a8368627e2e0f83) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '19c7381e65c73b466db529e13871b93c') in 0.030468 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Platformer 1 - Low Poly/Meshes/fence_wood_001.fbx
+  artifactKey: Guid(14edaa567df5f274681727602a34baa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Meshes/fence_wood_001.fbx using Guid(14edaa567df5f274681727602a34baa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'd5f0fd5eb68cfa2616fc13dd92241a70') in 0.026177 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Platformer 1 - Low Poly/Meshes/obstacle_4_002.fbx
+  artifactKey: Guid(8b2f28f697ea3a7429a274f0dfaad195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Meshes/obstacle_4_002.fbx using Guid(8b2f28f697ea3a7429a274f0dfaad195) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '88aa26e476bb513819e27c79eaac3514') in 0.030901 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Platformer 1 - Low Poly/Meshes/box_tnt_001.fbx
+  artifactKey: Guid(e1bfe41c051738a4cae51e86445c638c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Meshes/box_tnt_001.fbx using Guid(e1bfe41c051738a4cae51e86445c638c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'cf983a2eed56ef10bb31978ae6fc7edb') in 0.033807 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Platformer 1 - Low Poly/Meshes/checkpoint_001.fbx
+  artifactKey: Guid(1887f8e3a3dd0614fa5c4cc4ee4cf074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Meshes/checkpoint_001.fbx using Guid(1887f8e3a3dd0614fa5c4cc4ee4cf074) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e04705f0f631800d24017fcd169decf3') in 0.026097 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Platformer 1 - Low Poly/Meshes/flag_001.fbx
+  artifactKey: Guid(f8332a31a29711843a0f1a0ede9b4273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Meshes/flag_001.fbx using Guid(f8332a31a29711843a0f1a0ede9b4273) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '75f16af34318f6e495ca070511a3a4bb') in 0.026240 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Platformer 1 - Low Poly/Meshes/land_007.fbx
+  artifactKey: Guid(ff87f4a8b7a7ca746b7c34ff08c89013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Meshes/land_007.fbx using Guid(ff87f4a8b7a7ca746b7c34ff08c89013) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'a6131d445a1f794574d52b9daaaf519d') in 0.031051 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Platformer 1 - Low Poly/Meshes/flower_003.fbx
+  artifactKey: Guid(10bf6fc3abfe09b4c92c53804c647cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Meshes/flower_003.fbx using Guid(10bf6fc3abfe09b4c92c53804c647cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '430b3581e7a551ed1162241b280b5a1a') in 0.028363 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Platformer 1 - Low Poly/Meshes/checkpoint_tree_001.fbx
+  artifactKey: Guid(f07efa389da86ec4cb424698e97b4ed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Meshes/checkpoint_tree_001.fbx using Guid(f07efa389da86ec4cb424698e97b4ed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '14d0796b40dc36427f865acaec8680bf') in 0.032203 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Platformer 1 - Low Poly/Meshes/land_001.fbx
+  artifactKey: Guid(34c8604bf26e5cf478e05386e5e3691a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Meshes/land_001.fbx using Guid(34c8604bf26e5cf478e05386e5e3691a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '5dd9925c59f0d54753057618d536a862') in 0.030794 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Platformer 1 - Low Poly/Meshes/log_001.fbx
+  artifactKey: Guid(750c2ef65b4387c41a2d731bf46bfb7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Meshes/log_001.fbx using Guid(750c2ef65b4387c41a2d731bf46bfb7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ab0a872df80f19b3654e01fa1331c5a7') in 0.020748 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Platformer 1 - Low Poly/Meshes/finish_001.fbx
+  artifactKey: Guid(bd8446634feb0de4aa43c0ee732ddc73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Meshes/finish_001.fbx using Guid(bd8446634feb0de4aa43c0ee732ddc73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '350f518e5873d8eaf49285d6d73b369f') in 0.023239 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Platformer 1 - Low Poly/Meshes/fence_pillar_003.fbx
+  artifactKey: Guid(e6b08df0d4438b046ae4616420e16428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Meshes/fence_pillar_003.fbx using Guid(e6b08df0d4438b046ae4616420e16428) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'b975f98bf170c94854c602566fa09676') in 0.022569 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 9.092306 seconds.
+  path: Assets/Platformer 1 - Low Poly/Shaders/Pattern_2.png
+  artifactKey: Guid(bd5db0b7ea5d737489d77271ea4bb083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platformer 1 - Low Poly/Shaders/Pattern_2.png using Guid(bd5db0b7ea5d737489d77271ea4bb083) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e249c198e367caa74f8caade00850a98') in 0.048996 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 55.150080 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 16 V3.fbx
+  artifactKey: Guid(0722fa9527d6f01418da1ee3556acbfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 16 V3.fbx using Guid(0722fa9527d6f01418da1ee3556acbfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '5edfdcfa45a085f5d193edec2a9d7bb2') in 0.071097 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 23
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 22 V3.fbx
+  artifactKey: Guid(c94090c10433d074c8eab33b04a68869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 22 V3.fbx using Guid(c94090c10433d074c8eab33b04a68869) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '4f34caa1b10e69f9ad88db81ac192cd8') in 0.047301 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 23 V2.fbx
+  artifactKey: Guid(57e154038b2445e4da4c482d86d3bd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 23 V2.fbx using Guid(57e154038b2445e4da4c482d86d3bd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'c735e508b2a463f4dfc953370c56f5ca') in 0.058648 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 26 V4.fbx
+  artifactKey: Guid(8179120cf416a46419a655f566ff3ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 26 V4.fbx using Guid(8179120cf416a46419a655f566ff3ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'bb2821ecda1db097ebf22a5f96f6375c') in 0.030498 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 18 V3.fbx
+  artifactKey: Guid(e5086858a7fd06248accc518cb32aad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 18 V3.fbx using Guid(e5086858a7fd06248accc518cb32aad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ad59159feeddbe58b771b6d34b16c8b4') in 0.042501 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 23 V3.fbx
+  artifactKey: Guid(87dc8b91ea53e1f489c3fdfb70b98850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 23 V3.fbx using Guid(87dc8b91ea53e1f489c3fdfb70b98850) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'fd95c961789ffa351f4e0bff7d69964c') in 0.039413 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 25 V2.fbx
+  artifactKey: Guid(93227f9b370481f498404743747f087b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 25 V2.fbx using Guid(93227f9b370481f498404743747f087b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'bdcaf841717adbd645595a509f66651f') in 0.038550 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 29 V3.fbx
+  artifactKey: Guid(dad86bcc188713d419dedbb954924a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 29 V3.fbx using Guid(dad86bcc188713d419dedbb954924a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e40fa138680730b8935e9b184823d157') in 0.025703 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 27 V2.fbx
+  artifactKey: Guid(ca272e1a3a7e46b48ac51fb02741c8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 27 V2.fbx using Guid(ca272e1a3a7e46b48ac51fb02741c8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '04f32f9527f59cac47ced1646ddc260e') in 0.021810 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 21 V1.fbx
+  artifactKey: Guid(6fb2641dc3df9a24e91e0c4171376abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 21 V1.fbx using Guid(6fb2641dc3df9a24e91e0c4171376abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'c3147b0192e5d332d1d1724dbb747a4e') in 0.042285 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 21 V4.fbx
+  artifactKey: Guid(f8224bedcaf77b94eb49b235b7a2a583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 21 V4.fbx using Guid(f8224bedcaf77b94eb49b235b7a2a583) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8aba90f2616420b3d76314e73fd8c75f') in 0.041983 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 26 V3.fbx
+  artifactKey: Guid(0d350dc3c08b8f14e841fa9d8a8eb3e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 26 V3.fbx using Guid(0d350dc3c08b8f14e841fa9d8a8eb3e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '66ed641c6db0eb22787beeb7ce79088f') in 0.025363 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 19 V2.fbx
+  artifactKey: Guid(9c068315cc743ef4c919b1dbadefd1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 19 V2.fbx using Guid(9c068315cc743ef4c919b1dbadefd1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '2a6b4aeb838abf0e480114dce92c7a05') in 0.041615 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 24 V4.fbx
+  artifactKey: Guid(86dfa9802d4d54a4d910022c8252da76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Downtown Game Studio/LOW POLY ASSETS - Animated Traps & Obstacles + VFX/Models/Obstacle 24 V4.fbx using Guid(86dfa9802d4d54a4d910022c8252da76) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '38353f9be1fea3fe61199d12eb09f62e') in 0.037692 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: ÓÉÓÚÏß³ÌÍË³ö»òÓ¦ÓÃ³ÌĞòÇëÇó£¬ÒÑÖĞÖ¹ I/O ²Ù×÷¡£
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
